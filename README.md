@@ -10,9 +10,17 @@
 
 ## 📸 Project Preview
 
-> *(Replace the placeholder image with a screenshot of your app UI)*
+> *Login Page*
 
-![![alt text](image.png)](https://via.placeholder.com/900x400.png?text=Fault+Ticketing+System+Preview)
+![![alt text](login.png)](/screenshots/login.png)
+
+> *View Tickets Page*
+
+![![alt text](viewtickets.png)](/screenshots/viewtickets.png)
+
+> *Create Tickets Page*
+
+![![alt text](createtickets.png)](/screenshots/createtickets.png)
 
 ---
 
@@ -99,16 +107,6 @@ ng serve --open
 
 ---
 
-## 🚧 Roadmap
-
-- [ ] Frontend UI for update ticket feature  
-- [ ] Role-based authentication with JWT  
-- [ ] Advanced ticket filtering and reporting  
-- [ ] Dockerized deployment (Backend + Frontend)  
-- [ ] CI/CD pipeline with GitHub Actions  
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
@@ -125,9 +123,4 @@ Contributions are welcome!
 This project is licensed under the **MIT License** – you are free to use and modify it.
 
 ---
-
-✅ **Tip:**  
-- To add your **UI screenshot**, take a screenshot of your running frontend (`http://localhost:4200/view-tickets`), save it as `screenshot.png` in your repo root, and update this line in README:
-```markdown
-![Project Screenshot](screenshot.png)
 ```
