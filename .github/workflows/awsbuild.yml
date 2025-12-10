@@ -37,7 +37,7 @@ jobs:
         run: |
           docker build \
             -t mohitrajguru/ticketing-frontend:latest \
-            ./Ticketing-Frontend
+            ./Ticketing-System
 
       - name: Push Frontend Image
         run: |
